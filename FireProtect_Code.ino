@@ -1,16 +1,16 @@
-#include <WiFi.h>
-#include <HTTPClient.h>
-#include "DHT.h"
+# include <WiFi.h>
+# include <HTTPClient.h>
+# include "DHT.h"
 
 // SENSOR PINS 
-#define DHTPIN 14
-#define PIR_PIN 5
-#define FLAME_PIN 18
-#define GAS_PIN 34
-#define BUZZER_PIN 13 
+# define DHTPIN 14
+# define PIR_PIN 5
+# define FLAME_PIN 18
+# define GAS_PIN 34
+# define BUZZER_PIN 13 
 
 // DHT CONFIG 
-#define DHTTYPE DHT11
+# define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
 
 // WIFI CONFIG
