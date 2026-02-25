@@ -28,6 +28,8 @@ FireProtect is an IoT-based smart fire detection and alert system designed for r
 
 - **Cloud Logging & Remote Monitoring** : Simultaneously, sensor data is uploaded to ThingSpeak for real-time visualization, historical storage, and remote access via the web dashboard.
 
+<img width="250" height="400" alt="image" src="https://github.com/user-attachments/assets/83b086bc-a3c3-463b-a931-ccdbe10af68b" />
+
 
 ## Hardware Architecture
 - **ESP32** : The ESP32 acts as the central controller of FireProtect. It reads sensor inputs, executes hazard detection logic, and uploads real-time data to the cloud using its built-in Wi-Fi capability. Its dual-core processing ensures fast response and reliable performance.
@@ -39,6 +41,9 @@ FireProtect is an IoT-based smart fire detection and alert system designed for r
 - **Temperature Sensor (DHT11)** : Monitors ambient temperature levels to detect abnormal heat rise. It supports environmental validation to reduce false fire alarms.
 
 - **Buzzer** : Acts as the primary local alert mechanism. It is triggered instantly when fire conditions are detected, ensuring immediate on-site warning.
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6f67418b-93ba-4802-a1fb-df2640efdd52" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/aa4ced7f-0633-45ec-b8c4-20e53838c780" />
 
 
 ## Sensor Programming
