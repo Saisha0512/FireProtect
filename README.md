@@ -40,6 +40,8 @@ FireProtect is an IoT-based smart fire detection and alert system designed for r
 
 - **Temperature Sensor (DHT11)** : Monitors ambient temperature levels to detect abnormal heat rise. It supports environmental validation to reduce false fire alarms.
 
+- **PIR Sensor** : Detects human motion using passive infrared radiation sensing. It enhances the system by identifying human presence near hazardous zones, enabling smarter alert handling.
+
 - **Buzzer** : Acts as the primary local alert mechanism. It is triggered instantly when fire conditions are detected, ensuring immediate on-site warning.
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6f67418b-93ba-4802-a1fb-df2640efdd52" />
