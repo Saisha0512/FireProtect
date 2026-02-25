@@ -43,7 +43,6 @@ FireProtect is an IoT-based smart fire detection and alert system designed for r
 - **Buzzer** : Acts as the primary local alert mechanism. It is triggered instantly when fire conditions are detected, ensuring immediate on-site warning.
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6f67418b-93ba-4802-a1fb-df2640efdd52" />
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/aa4ced7f-0633-45ec-b8c4-20e53838c780" />
 
 
 ## Sensor Programming
@@ -56,6 +55,7 @@ FireProtect is an IoT-based smart fire detection and alert system designed for r
 - **Edge-Based Decision Logic** : Sensor readings are compared with predefined thresholds, applying multi-sensor validation to reduce false alarms.
 
 - **Local Alert & Cloud Update** : If hazard conditions are met, the buzzer and relay are triggered instantly, and sensor data is uploaded to ThingSpeak at regulated intervals for real-time monitoring.
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/aa4ced7f-0633-45ec-b8c4-20e53838c780" />
 
 
 ## ThingSpeak Cloud Integration
