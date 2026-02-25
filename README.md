@@ -75,3 +75,12 @@ A lightweight web interface was developed to provide remote access to FireProtec
 
 The website acts as an additional monitoring layer, while the core detection and safety logic remain hardware-driven on the ESP32.
 
+
+## Applications
+- **Residential Homes** : Early fire detection to protect lives and property.
+
+- **Laboratories & Server Rooms** : Monitoring gas leaks and overheating equipment.
+
+- **Warehouses & Industrial Units** : Detecting combustible gas buildup and fire hazards.
+
+- **Commercial Buildings & Offices** : Real-time monitoring with remote cloud access.
